@@ -1,0 +1,7 @@
+# sed_test script
+
+My name is KennyTwo.
+
+This is my first script!!
+
+192.168.50.112

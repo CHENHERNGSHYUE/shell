@@ -1,4 +1,4 @@
-#bin/bash
+#!/bin/bash
 
 echo -e '\033[32m------Green------\033[1m'
 
