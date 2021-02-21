@@ -1,0 +1,12 @@
+/etc/proc -> 查詢硬體資訊 (meminfo, cpuinfo)
+/var/log/secure -> 查登入資訊
+
+防火牆封鎖:
+
+/etc/sysconfig/iptables裡 <- 需要另外install
+修改後執行
+/etc/init.d/iptables restart
+
+sz可以下載 (需install)
+
+csv文件是透過逗號分隔欄位
